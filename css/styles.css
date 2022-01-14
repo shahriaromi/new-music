@@ -57,7 +57,7 @@ header .navbar-light .navbar-nav .nav-link {
 .btn-success:focus {
   background: transparent;
   color: black;
-   border: 1px solid black;
+  border: 1px solid black;
 }
 .navbar-light .navbar-nav .nav-link.active,
 .navbar-light .navbar-nav .show > .nav-link {
